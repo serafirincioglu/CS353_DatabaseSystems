@@ -1,2 +1,2 @@
-# CS353_DatabaseSystems
+# CS353 Database Systems
  Database Project Reports
